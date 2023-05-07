@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @themitalisarkar
 - 👀 I’m interested in learning new skills, ideas and sharing ideas with people.
-- 🌱 I’m currently learning M.Sc in Statistics.
+- 🌱 M.Sc in Statistics.
 - 💞️ I’m looking to collaborate on software development skills.
 - 📫 Reach me in my instagram profile @themitalisarkar
 
