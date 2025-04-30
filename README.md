@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Mitali Sarkar
-- 🌱 Statistician and Data Analyst
-- 📊 M.Sc in Statistics
-- 💞️ Transforming raw data into actionable insights for informed decision-making. Skilled in data visualization, analysis, and dashboard creation to drive business success
-- 🔗 Connect with me on LinkedIn www.linkedin.com/in/mitali-sarkar-79873a224 and Instagram profile (https://www.instagram.com/themitalisarkar/)
+- Hi, I’m Mitali Sarkar
+- Statistician and Data Analyst
+- M.Sc in Statistics
+- Transforming raw data into actionable insights for informed decision-making.
+- Connect with me on LinkedIn www.linkedin.com/in/mitali-sarkar-79873a224 and Instagram profile (https://www.instagram.com/themitalisarkar/)
 - 📫 **Contact:**
    - Email: msarkaarrr@gmail.com
 
