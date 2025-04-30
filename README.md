@@ -2,7 +2,7 @@
 - Statistician and Data Analyst
 - M.Sc in Statistics
 - Transforming raw data into actionable insights for informed decision-making.
-- Connect with me on LinkedIn www.linkedin.com/in/mitali-sarkar-79873a224 and Instagram profile (https://www.instagram.com/themitalisarkar/)
+- Connect with me on LinkedIn www.linkedin.com/in/mitali-sarkar-79873a224
 - 📫 **Contact:**
    - Email: msarkaarrr@gmail.com
 
