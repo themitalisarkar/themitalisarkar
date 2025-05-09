@@ -3,7 +3,7 @@
 - M.Sc in Statistics
 - Transforming raw data into actionable insights for informed decision-making.
 - Connect with me on LinkedIn www.linkedin.com/in/mitali-sarkar-79873a224
-- 📫 **Contact:**
+- **Contact:**
    - Email: msarkaarrr@gmail.com
 
 <!---
