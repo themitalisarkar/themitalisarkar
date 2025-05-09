@@ -4,7 +4,7 @@
 - Transforming raw data into actionable insights for informed decision-making.
 - Connect with me on LinkedIn www.linkedin.com/in/mitali-sarkar-79873a224
 - **Contact:**
-   - Email: msarkaarrr@gmail.com
+   - Email: mitalisarkarofficial@gmail.com
 
 <!---
 themitalisarkar/themitalisarkar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
